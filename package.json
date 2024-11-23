@@ -1,5 +1,7 @@
+
 {
-  "name": "spinwheel",
+  "homepage": "https://seyan5.github.io/darklight/",
+  "name": "darklight",
   "version": "0.0.0",
   "private": true,
   "type": "module",
